@@ -1,0 +1,196 @@
+[
+  {
+    "id": 1,
+    "precio": 2500.00,
+    "nombre": "20th Century Boys",
+    "imagen": "../media/20thcentury.jpeg"
+  },
+  {
+    "id": 2,
+    "precio": 750.00,
+    "nombre": "Assassination Classroom",
+    "imagen": "../media/AssassinationClassroom.jpg"
+  },
+  {
+    "id": 3,
+    "precio": 900.00,
+    "nombre": "Atom",
+    "imagen": "../media/atom.jpeg"
+  },
+  {
+    "id": 4,
+    "precio": 650.00,
+    "nombre": "Black Clover",
+    "imagen": "../media/blackclover3.jpg"
+  },
+  {
+    "id": 5,
+    "precio": 650.00,
+    "nombre": "Blue Lock",
+    "imagen": "../media/bluelock12.jpg"
+  },
+  {
+    "id": 6,
+    "precio": 700.00,
+    "nombre": "Blue Period",
+    "imagen": "../media/BluePeriod.jpg"
+  },
+  {
+    "id": 7,
+    "precio": 750.00,
+    "nombre": "Boku no Hero",
+    "imagen": "../media/bokunohero33.jpeg"
+  },
+  {
+    "id": 8,
+    "precio": 570.00,
+    "nombre": "Boruto",
+    "imagen": "../media/boruto.jpeg"
+  },
+  {
+    "id": 9,
+    "precio": 750.00,
+    "nombre": "Chainsaw Man",
+    "imagen": "../media/chainsawman5.jpeg"
+  },
+  {
+    "id": 10,
+    "precio": 800.00,
+    "nombre": "Choujin",
+    "imagen": "../media/choujin3.jpeg"
+
+  },
+  {
+    "id": 11,
+    "precio": 700.00,
+    "nombre": "Demon Slayer",
+    "imagen": "../media/demonslayer8.jpeg"
+  },
+  {
+    "id": 12,
+    "precio": 2500.00,
+    "nombre": "Dorohedoro",
+    "imagen": "../media/Dorohedoro.jpg"
+  },
+  {
+    "id": 13,
+    "precio": 750.00,
+    "nombre": "Fire Force",
+    "imagen": "../media/fireforce23.jpeg"
+  },
+  {
+    "id": 14,
+    "precio": 1500.00,
+    "nombre": "Firepunch",
+    "imagen": "../media/firepunch.jpg"
+  },
+  {
+    "id": 15,
+    "precio": 1000.00,
+    "nombre": "Hunter x Hunter",
+    "imagen": "../media/hunterxhunter.jpeg"
+  },
+  {
+    "id": 16,
+    "precio": 750.00,
+    "nombre": "Jigokuraku",
+    "imagen": "../media/jigokuraku1.jpeg"
+  },
+  {
+    "id": 17,
+    "precio": 700.00,
+    "nombre": "Jujutsu Kaisen",
+    "imagen": "../media/jujutsukaisen19.jpg"
+  },
+  {
+    "id": 18,
+    "precio": 570.00,
+    "nombre": "Kaijuu n8",
+    "imagen": "../media/kaijuun8.jpg"
+  },
+  {
+    "id": 19,
+    "precio": 1200.00,
+    "nombre": "Made in Abyss",
+    "imagen": "../media/MadeInAbyss.jpg"
+  },
+  {
+    "id": 20,
+    "precio": 800.00,
+    "nombre": "Mieruko-Chan",
+    "imagen": "../media/mieruko-chan.jpg"
+
+  },
+  {
+    "id": 21,
+    "precio": 1200.00,
+    "nombre": "Mob-Psycho",
+    "imagen": "../media/mobpsycho4.jpeg"
+  },
+  {
+    "id": 22,
+    "precio": 1500.00,
+    "nombre": "Rooster Fighter",
+    "imagen": "../media/RoosterFigther.jpg"
+  },
+  {
+    "id": 23,
+    "precio": 700.00,
+    "nombre": "Sabikui Bisco",
+    "imagen": "../media/SabikuiBisco.jpg"
+  },
+  {
+    "id": 24,
+    "precio": 1500.00,
+    "nombre": "Shuumatsu No Valkyrie",
+    "imagen": "../media/ShuumatsuNoValkyrie.jpg"
+  },
+  {
+    "id": 25,
+    "precio": 1000.00,
+    "nombre": "Spy x Family",
+    "imagen": "../media/spyxfamily1.jpeg"
+  },
+  {
+    "id": 26,
+    "precio": 750.00,
+    "nombre": "The Promised Neverland",
+    "imagen": "../media/ThePromisedNeverland.jpg"
+  },
+  {
+    "id": 27,
+    "precio": 700.00,
+    "nombre": "Tokyo Ghoul",
+    "imagen": "../media/TokyoGhoul13.jpg"
+  },
+  {
+    "id": 28,
+    "precio": 700.00,
+    "nombre": "Tokyo Revengers",
+    "imagen": "../media/tokyorevengers.jpeg"
+  },
+  {
+    "id": 29,
+    "precio": 750.00,
+    "nombre": "Yu Gi Oh",
+    "imagen": "../media/yugioh.jpg"
+  },
+  {
+    "id": 30,
+    "precio": 800.00,
+    "nombre": "Oshi No Ko",
+    "imagen": "../media/oshinoko.jpg"
+  },
+  {
+    "id": 31,
+    "precio": 750.00,
+    "nombre": "Deadman Wonderland",
+    "imagen": "../media/deadmanwonderland.jpg"
+  },
+  {
+    "id": 32,
+    "precio": 750.00,
+    "nombre": "Dead dead demon's dededede destruction",
+    "imagen": "../media/deaddemons.jpg"
+  }
+]
